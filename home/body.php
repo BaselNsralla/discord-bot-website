@@ -13,7 +13,7 @@
                 </p>
               </div>
               <div class="button-container">
-                  <a href="" class="discord-button">
+                  <a href="https://discordapp.com/oauth2/authorize?&client_id=0276858243840475136&scope=bot&permissions=" class="discord-button">
                       INVITE
                   </a>
                   <a href="https://github.com/BaselNsralla/Discord-bot/" class="discord-button">
